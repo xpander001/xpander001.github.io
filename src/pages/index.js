@@ -8,32 +8,32 @@ import {linkTextColor} from '../styles/variables.css.js'
 const MainSection = styled.section`
   height: 100%;
   display: flex;
-  align-items: center;
-  justify-content: center;
 `
 
 const MainSectionContent = styled.section`
+  padding: 2rem 0;
+  margin: auto;
   height: auto;
   width: 70%;
-  max-width: 700px;
+  max-width: 750px;
+  & * {
+    margin-bottom: 1rem;
+  }
 `
 
 const Title = styled.h1`
   text-align: center;
   font-size: 3rem;
-  margin-bottom: 1rem;
 `
 
 const Subtitle = styled.h2`
   text-align: center;
   font-size: 2rem;
-  margin-bottom: 1rem;
 `
 
 const Text = styled.p`
   text-align: center;
-  font-size: 1rem;
-  margin-bottom: 1rem;
+  font-size: 1.1rem;
   line-height: 1.5rem;
 `
 
@@ -55,4 +55,3 @@ export default () => (
     </MainSectionContent>
   </MainSection>
 )
-
