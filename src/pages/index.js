@@ -49,8 +49,8 @@ export default () => (
   <MainSection>
     <MainSectionContent>
       <Title>Ander Suárez Martínez</Title>
-      <Subtitle>Senior Frontend Developer at <InlineLink href="http://www.unbound.com">Unbound</InlineLink>. I build websites.</Subtitle>
-      <Text>Previously, frontend lead at <InlineLink href="http://www.jinnapp.com">Jinn</InlineLink>. I co-founded <InlineLink href="http://perpetuall.net/">Perpetuall</InlineLink>. I was born in Bilbao, and moved to the UK looking for new challenges. I like music & arts. I play guitar for <InlineLink href="http://walnut.bandcamp.com">Walnut</InlineLink>.</Text>
+      <Subtitle>Senior Frontend Developer at <InlineLink href="https://www.unbound.com">Unbound</InlineLink>. I build websites.</Subtitle>
+      <Text>Previously, frontend lead at <InlineLink href="https://www.jinnapp.com">Jinn</InlineLink>. I co-founded <InlineLink href="http://perpetuall.net/">Perpetuall</InlineLink>. I was born in Bilbao, and moved to the UK looking for new challenges. I like music & arts. I play guitar for <InlineLink href="http://walnut.bandcamp.com">Walnut</InlineLink>.</Text>
       <Text>Find me at <InlineLink href="mailto:me@andersuarez.com">me@andersuarez.com</InlineLink></Text>
     </MainSectionContent>
   </MainSection>
